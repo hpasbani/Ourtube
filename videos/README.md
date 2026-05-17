@@ -2,4 +2,5 @@
 
 ----
 
-- 1 - 🎬 [How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-–-A-Simple-Guide](https://github.com/hpasbani/Ourtube/tree/main/videos/How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-%E2%80%93-A-Simple-Guide)
+- 1 - 🎬 [DASHCAM-XIAOMI-70mai-M500](https://github.com/hpasbani/Ourtube/tree/main/videos/DASHCAM-XIAOMI-70mai-M500)
+- 2 - 🎬 [How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-–-A-Simple-Guide](https://github.com/hpasbani/Ourtube/tree/main/videos/How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-%E2%80%93-A-Simple-Guide)
