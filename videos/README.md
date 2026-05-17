@@ -9,3 +9,4 @@
 - 5 - 🎬 [DASHCAM-XIAOMI-70mai-M500_lambda_26563](https://github.com/hpasbani/Ourtube/tree/main/videos/DASHCAM-XIAOMI-70mai-M500_lambda_26563)
 - 6 - 🎬 [How-to-Enable-Parking-Surveillance-on-Your-70mai-Dashcam-M500](https://github.com/hpasbani/Ourtube/tree/main/videos/How-to-Enable-Parking-Surveillance-on-Your-70mai-Dashcam-M500)
 - 7 - 🎬 [How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-–-A-Simple-Guide](https://github.com/hpasbani/Ourtube/tree/main/videos/How-to-Switch-Speed-Units-on-Your-70mai-Dashcam-M500-%E2%80%93-A-Simple-Guide)
+- 8 - 🎬 [Installing-a-70mai-M500-Dash-Cam-in-my-2022-Toyota-GR86](https://github.com/hpasbani/Ourtube/tree/main/videos/Installing-a-70mai-M500-Dash-Cam-in-my-2022-Toyota-GR86)
